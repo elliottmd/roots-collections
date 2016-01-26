@@ -32,7 +32,7 @@ desc: A description
 Hello
 ```
 
-If the file names follow the following patter:
+If the file names follow the following pattern:
 
 ```
 /posts/2015-05-04-this-is-a-blog-post.md
